@@ -5,6 +5,6 @@ public class LearningParse {
         n2 = Integer.parseInt(enter[1]);
         soma = n1 + n2;
         System.out.println(n1 + " + " + n2 + " = " + soma);
-        System.exit(0);
+        System.exit(2);
     }
 }
