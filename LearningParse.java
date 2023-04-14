@@ -8,4 +8,4 @@ public class LearningParse {
         System.exit(0);
     }
 }
-// in this case when running the programm, we ne to input the values to be stored in "n1" and "n2".
+// in this case when running the programm, we need to input the values to be stored in "n1" and "n2".
