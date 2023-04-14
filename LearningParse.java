@@ -1,6 +1,6 @@
 public class LearningParse {
     public static void main(String enter[]){
-        int n1, n2, soma;
+        String n1, n2, soma;
         n1 = "47";
         n2 = "58";
         n1 = Integer.parseInt(enter[0]);
