@@ -13,7 +13,7 @@ public class Program1 {
             case '-': calc =(double)numInt - numReal;
             case '*': calc =(double)numInt * numReal;
             case '/': calc =(double)numInt / numReal;
-            System.out.println("The calc is " + (double)numInt + chart + numReal + " = " + calc + " singnal " + chart);
+            System.out.println("The calc is " + (double)numInt + chart + numReal + " = " + calc + " signal " + chart);
         }
         //soma = (double)numInt + numReal;
         System.exit(0);
