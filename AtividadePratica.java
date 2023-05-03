@@ -11,7 +11,7 @@ public class AtividadePratica {
         pot = Math.pow(n1,n2);
 
         msg = msg + "Quociente da divisão de n1 por n2 é " + div + "\n";
-        msg = msg + "A potência de n1 por n2 é " + pot;
+        msg = msg + "A potência de " + n1 + " por " + n2 + " é " + pot;
 
         JOptionPane.showMessageDialog(null, msg);
         System.exit(0);
